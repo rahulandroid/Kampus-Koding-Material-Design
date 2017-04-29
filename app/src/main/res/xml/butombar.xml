@@ -1,0 +1,30 @@
+<Tab>
+    <tab
+        id="@+id/tab_home"
+        icon="@drawable/ic_home_white_24dp"
+        activeColor="@color/colorPrimary"
+        titleSize="6dp"
+        title="Home"
+        />
+    <tab
+        id="@+id/tab_explore"
+        icon="@drawable/ic_explore_white_24dp"
+        activeColor="@color/colorPrimary"
+        titleSize="6dp"
+        title="Home"
+        />
+    <tab
+        id="@+id/tab_chat"
+        icon="@drawable/ic_chat_white_24dp"
+        activeColor="@color/colorPrimary"
+        titleSize="6dp"
+        title="Home"
+        />
+    <tab
+        id="@+id/tab_friends"
+        icon="@drawable/ic_person_white_24dp"
+        activeColor="@color/colorPrimary"
+        titleSize="6dp"
+        title="Home"
+        />
+</Tab>
